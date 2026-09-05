@@ -12,4 +12,4 @@ Este repo sirve para experimentar con:
 - Hacer commits
 - Abrir y revisar Pull Requests
 
-Es un proyecto de aprendizaje, no un proyecto de produccion.
+Es un proyecto de aprendizaje, no un proyecto de producción.
